@@ -55,6 +55,11 @@ Important truth: your agent cannot be “run by anyone” with zero setup if it 
 - how to install dependencies
 - how to pass the server URL
 
-That is enough for a good Level 3 submission.
 
-If you want, I can also give you a cleaner version that asks the question interactively instead of using command-line arguments.
+## Install dependencies
+`bash
+pip install -r requirements.txt
+run:
+``bash
+pip install -r requirements.txt
+python agent.py
